@@ -1,6 +1,6 @@
 <div align="center">
 
-# 󰊠 ff-dots
+#  ff-dots
 
 **fastfetch config buat terminal yang ga norak tapi tetep keren**
 

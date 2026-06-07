@@ -88,7 +88,7 @@ Config ada di `config.jsonc`, beberapa hal yang bisa lo tweak:
 
 ## ✦ modules yang aktif
 
-`os` · `kernel` · `packages` · `shell` · `wm` · `uptime` · `cpu` · `memory` · `disk` · color blocks
+`os` · `kernel` · `packages` · `shell` · `wm` · `uptime` · `cpu` · `memory` · `disk` · `color-blocks`
 
 ---
 

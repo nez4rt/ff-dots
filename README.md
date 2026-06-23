@@ -18,7 +18,7 @@
 
 ```
                    os    NixOS / Arch / etc
-  [marin.png]      ker   6.x.x
+  [marin.png]      ker   7.x.x
                    pkgs  xxx
                    sh    zsh
                    wm    Hyprland

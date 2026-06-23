@@ -14,7 +14,7 @@
 
 ## ✦ preview
 
-> *marin kita di sebelah kiri, info sistem di sebelah kanan — minimalis tapi berasa.*
+> *marin kita di sebelah kiri, info sistem di sebelah kanan.*
 
 ```
                    os    NixOS / Arch / etc
